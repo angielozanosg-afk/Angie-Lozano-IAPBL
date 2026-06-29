@@ -7,3 +7,4 @@ mlxtend>=0.23.0
 kmodes>=0.12.2
 scipy>=1.12.0
 openpyxl>=3.1.2
+statsmodels
